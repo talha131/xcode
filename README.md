@@ -19,3 +19,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
+
+# Changes in Fork
+
+1. Fork uses [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html) font
